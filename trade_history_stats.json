@@ -1,0 +1,135 @@
+[
+    {
+        "symbol": "EURUSD",
+        "max_profit_pips": 0.0,
+        "max_drawdown_pips": -11.000000000005448,
+        "entry": 1.17188,
+        "type": "SELL"
+    },
+    {
+        "symbol": "EURUSD",
+        "max_profit_pips": 29.999999999996692,
+        "max_drawdown_pips": -97.00000000001373,
+        "entry": 1.17199,
+        "type": "BUY"
+    },
+    {
+        "symbol": "NZDUSD",
+        "max_profit_pips": 0.0,
+        "max_drawdown_pips": -56.00000000000049,
+        "entry": 0.59378,
+        "type": "SELL"
+    },
+    {
+        "symbol": "AUDUSD",
+        "max_profit_pips": 11.000000000005448,
+        "max_drawdown_pips": -51.00000000000104,
+        "entry": 0.70821,
+        "type": "SELL"
+    },
+    {
+        "symbol": "GBPJPY",
+        "max_profit_pips": 484.9999999999852,
+        "max_drawdown_pips": -22.00000000001978,
+        "entry": 210.588,
+        "type": "SELL"
+    },
+    {
+        "symbol": "GBPJPY",
+        "max_profit_pips": 371.9999999999857,
+        "max_drawdown_pips": -21.000000000015007,
+        "entry": 210.291,
+        "type": "SELL"
+    },
+    {
+        "symbol": "GBPJPY",
+        "max_profit_pips": 238.9999999999759,
+        "max_drawdown_pips": -76.99999999999818,
+        "entry": 209.706,
+        "type": "SELL"
+    },
+    {
+        "symbol": "GBPJPY",
+        "max_profit_pips": 12.000000000000455,
+        "max_drawdown_pips": -173.00000000000182,
+        "entry": 209.764,
+        "type": "SELL"
+    },
+    {
+        "symbol": "GBPJPY",
+        "max_profit_pips": 486.99999999999477,
+        "max_drawdown_pips": -165.99999999999682,
+        "entry": 209.948,
+        "type": "SELL"
+    },
+    {
+        "symbol": "GBPJPY",
+        "max_profit_pips": 189.99999999999773,
+        "max_drawdown_pips": -120.00000000000455,
+        "entry": 209.97,
+        "type": "SELL"
+    },
+    {
+        "symbol": "EURUSD",
+        "max_profit_pips": 232.99999999999432,
+        "max_drawdown_pips": -363.00000000000216,
+        "entry": 1.15554,
+        "type": "SELL"
+    },
+    {
+        "symbol": "EURUSD",
+        "max_profit_pips": 530.9999999999925,
+        "max_drawdown_pips": -253.99999999999866,
+        "entry": 1.15852,
+        "type": "SELL"
+    },
+    {
+        "symbol": "AUDUSD",
+        "max_profit_pips": 39.00000000000014,
+        "max_drawdown_pips": -24.999999999997243,
+        "entry": 0.70469,
+        "type": "SELL"
+    },
+    {
+        "symbol": "GBPJPY",
+        "max_profit_pips": 0.0,
+        "max_drawdown_pips": -149.0000000000009,
+        "entry": 210.493,
+        "type": "SELL"
+    },
+    {
+        "symbol": "AUDUSD",
+        "max_profit_pips": 173.0000000000009,
+        "max_drawdown_pips": -65.99999999999939,
+        "entry": 0.70071,
+        "type": "SELL"
+    },
+    {
+        "symbol": "NZDUSD",
+        "max_profit_pips": 39.00000000000014,
+        "max_drawdown_pips": -19.00000000000235,
+        "entry": 0.58948,
+        "type": "SELL"
+    },
+    {
+        "symbol": "EURNZD",
+        "max_profit_pips": 129.99999999998568,
+        "max_drawdown_pips": -76.0000000000094,
+        "entry": 1.96776,
+        "type": "SELL"
+    },
+    {
+        "symbol": "AUDUSD",
+        "max_profit_pips": 45.00000000000614,
+        "max_drawdown_pips": 0.0,
+        "entry": 0.70503,
+        "type": "SELL"
+    },
+    {
+        "symbol": "USDCHF",
+        "max_profit_pips": 120.99999999999332,
+        "max_drawdown_pips": -38.0000000000047,
+        "entry": 0.78006,
+        "type": "SELL"
+    }
+]
